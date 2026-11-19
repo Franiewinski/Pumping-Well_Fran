@@ -1,0 +1,7 @@
+streamlit>=1.39
+pandas>=2.1
+numpy>=1.26
+scipy>=1.12
+plotly>=5.20
+openpyxl>=3.1
+pumptest @ git+https://github.com/GeoPilot-AI/pumptest
